@@ -32,7 +32,7 @@ Matrix.flatten = function (matrix) {
 
 };
 
-Matrix.generate = function (matrix, numRows, numCols) {
+Matrix.generate = function (matrix, numCols) {
 
     // This function doesn't need to test whether the given matrix fits into
     // the given dimensions.
@@ -43,12 +43,12 @@ Matrix.flipHorizontal = function (matrix) {
 
 };
 
-Matrix.filterZeros = function (matrix) {
-
+Matrix.flipVertical = function (matrix) {
 
 };
 
-Matrix.findDeterminant = function (matrix) {
+Matrix.filterZeros = function (matrix) {
+
 
 };
 

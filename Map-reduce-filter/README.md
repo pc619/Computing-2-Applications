@@ -19,7 +19,10 @@ Map, reduce, and filter are probably the three most important array methods. The
 
 ## Tutorial Questions
 
+Before starting the actual tutorial questions you are going to need to
+
 For this first set of questions we are going to be creating some functions to deal with colors, specifically arrays in the from [rrr, ggg, bbb] - RGB color codes.
+
 1. **`Color.noRed`:** Under the even numbers function, create a function that takes in an arbitrary array of rgb colors and returns colors with no red in them.
 1. **`Color.rgbToHexColor`:** Given an array of three elements with values from 0 to 255, return this rgb to a hex color code in the form `#rrggbb`
 1. **`Color.mixColors`:** Givern two RGB array values, return an array that would combine both the colors (you might need to do a bit of research on color theory!)
